@@ -1,0 +1,7 @@
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\Deber 1\Resolucion de ejercicios\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\Deber 1\Resolucion de ejercicios\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\Deber 1\Resolucion de ejercicios\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\Deber 1\Resolucion de ejercicios\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\Deber 1\Resolucion de ejercicios\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\Deber 1\Resolucion de ejercicios\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\Sigfred\Documents\TERCER SEMESTRE\PROGRAMACION ESTRUCTURADA Y VISUAL\Deber 1\Resolucion de ejercicios\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
